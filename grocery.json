@@ -1,0 +1,112 @@
+{
+
+    "grocery":[{
+            "SerialNo":"12012",
+            "name":"onian",
+            "quantity":"1",
+            "unit":"Kg",
+            "deparment":"vegetables",
+            "notes":""
+                },
+                {
+
+                     "SerialNo":"12013",
+                     "name":"tomato",
+                     "quantity":"1",
+                     "unit":"Kg",
+                    "deparment":"vegetables",
+                     "notes":""
+                },
+                {
+                    "SerialNo":"12014",
+                    "name":"ketchup",
+                    "quantity":"1",
+                    "unit":"litr",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12015",
+                    "name":"butter",
+                    "quantity":"1",
+                    "unit":"litr",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12016",
+                    "name":"chicken",
+                    "quantity":"2",
+                    "unit":"kg",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12017",
+                    "name":"chair",
+                    "quantity":"2",
+                    "unit":"1",
+                    "deparment":"furniture",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12018",
+                    "name":"egg",
+                    "quantity":"10",
+                    "unit":"single",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12019",
+                    "name":"bread",
+                    "quantity":"3",
+                    "unit":"single",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12020",
+                    "name":"jam",
+                    "quantity":"2",
+                    "unit":"litr",
+                    "deparment":"bakery",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12021",
+                    "name":"bourborn",
+                    "quantity":"2",
+                    "unit":"single",
+                    "deparment":"bakery",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12022",
+                    "name":"milk",
+                    "quantity":"2",
+                    "unit":"litr",
+                    "deparment":"food",
+                    "notes":""
+                },
+                {
+                    "SerialNo":"12023",
+                    "name":"chilli",
+                    "quantity":"2",
+                    "unit":"packet",
+                    "deparment":"vegetables",
+                    "notes":""
+                }
+                
+
+
+
+                
+                
+
+
+
+
+
+] 
+}
